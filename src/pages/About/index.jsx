@@ -1,6 +1,6 @@
 import React from "react";
 import data from "../../data";
-import styles from "./About.module.css";
+import styles from "./about.module.css";
 
 const About = () => {
   return (

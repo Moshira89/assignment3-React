@@ -1,6 +1,6 @@
 import React from "react";
 import data from "../../data";
-import styles from "./Home.module.css";
+import styles from "./home.module.css";
 
 const Home = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import data from "../../data";
-import styles from "./Gallery.module.css";
+import styles from "./gallery.module.css";
 
 const Gallery = () => {
   return (
