@@ -1,0 +1,18 @@
+.page {
+  text-align: center;
+  padding: 20px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.gallery img {
+  width: 30%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 5px;
+}
